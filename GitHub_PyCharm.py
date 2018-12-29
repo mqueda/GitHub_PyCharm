@@ -1,6 +1,7 @@
 def New_Function():
-    print("First Commit!!!")
-    print("Second Commit!!!")
+    print("First File Commit!!!")
+    print("Second File Commit!!!")
+    print("Directory Commit!!!")
 
 def main ():
     New_Function()
